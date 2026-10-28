@@ -1,0 +1,7 @@
+{
+  "name": "Axion Studio",
+  "description": "Design agency landing page for Axion Studio featuring animated WebGL shaders and strategy-led digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
